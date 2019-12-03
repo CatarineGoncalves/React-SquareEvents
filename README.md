@@ -1,3 +1,8 @@
+
+USAR NPM INSTALL PRA PEGAR O NODE
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
