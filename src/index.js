@@ -19,8 +19,8 @@ const Rotas = (
             <Switch>
                 <Route exact path="/" component={Home}/>
                 <Route path="/eventos" component={Eventos} />
-                <Route   />
-                <Route   />
+                <Route path="/login" component={Loginecadastro}/>
+                <Route path="/crieseuevento" component={CrieSeuEvento}/>
             </Switch>
         </div>
     </Router>
